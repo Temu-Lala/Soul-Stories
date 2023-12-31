@@ -1,9 +1,7 @@
 import React from 'react'
 
-function Live() {
+export default function LiveStream() {
   return (
-    <div>Live</div>
+    <div>LiveStream</div>
   )
 }
-
-export default Live

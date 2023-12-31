@@ -1,9 +1,7 @@
 import React from 'react'
 
-function page() {
+export default function LiveDescriotion() {
   return (
-    <div>page</div>
+    <div>LiveDescriotion</div>
   )
 }
-
-export default page

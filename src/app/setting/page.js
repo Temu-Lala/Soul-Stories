@@ -1,9 +1,7 @@
 import React from 'react'
 
-function page() {
+export default function Setting() {
   return (
-    <div>page</div>
+    <div>Setting</div>
   )
 }
-
-export default page

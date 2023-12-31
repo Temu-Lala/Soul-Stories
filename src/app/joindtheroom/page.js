@@ -1,9 +1,7 @@
 import React from 'react'
 
-function Joined() {
+export default function Joind() {
   return (
-    <div>Joined</div>
+    <div>Joind</div>
   )
 }
-
-export default Joined

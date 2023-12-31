@@ -1,9 +1,7 @@
 import React from 'react'
 
-function page() {
+export default function Upload() {
   return (
-    <div>page</div>
+    <div>Upload</div>
   )
 }
-
-export default page

@@ -1,9 +1,7 @@
 import React from 'react'
 
-function LiveChat() {
+export default function LiveChat() {
   return (
     <div>LiveChat</div>
   )
 }
-
-export default LiveChat
